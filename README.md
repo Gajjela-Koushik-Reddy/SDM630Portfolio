@@ -1,3 +1,4 @@
+[Portfolio Website](https://gajjela-koushik-reddy.github.io/SDM630Portfolio/)  
 Timeline:  
 Sprint 1. Weeks 6-7 (February 28 - March 20)  
 (including Spring Break)  
@@ -13,8 +14,8 @@ Sprint 5. Weeks 14-15 (May 2 - 15)
 Discussed on the UI libraries that are a viable option for the project and assigned into the issue - [Update UI dependencies (#24)](https://github.com/ChicoState/PantryNode/issues/24)
 
 Research:
-1. https://www.wearedevelopers.com/magazine/best-free-react-ui-libraries
-2. https://www.turing.com/blog/react-ui-frameworks-for-developers/#:~:text=Which%20UI%20is%20best%20for,Evergreen%20are%20also%20popular%20UIs
+1. [Resource 1](https://www.wearedevelopers.com/magazine/best-free-react-ui-libraries)
+2. [Resource 2](https://www.turing.com/blog/react-ui-frameworks-for-developers/#:~:text=Which%20UI%20is%20best%20for,Evergreen%20are%20also%20popular%20UIs)
 
 # Sprint 2
 
