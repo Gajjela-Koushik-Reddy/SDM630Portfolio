@@ -19,7 +19,7 @@ Research:
 
 # Sprint 2
 
-Discussed on the developement of the project and assigned into the issue - [Create Documentation Of Dependencies For Frontend Update Readme.md with how to start and dependencies](https://github.com/ChicoState/PantryNode/issues/67)
+[Discussed](https://github.com/ChicoState/PantryNode/issues/67#issuecomment-1499393418) on the developement of the project and assigned into the issue - [Create Documentation Of Dependencies For Frontend Update Readme.md with how to start and dependencies](https://github.com/ChicoState/PantryNode/issues/67)
 
 # Sprint 3
 
@@ -112,3 +112,5 @@ Commits accepted into **main** branch
 
 Pull Requests Accepted into **Main** branch  
 - [Expiry page (#224)](https://github.com/ChicoState/PantryNode/pull/224)
+
+Note: All my commits to the pantrynode has been done via local email due to this github has not recorded my username in the contribuitors panel although I have commits to the main. 
