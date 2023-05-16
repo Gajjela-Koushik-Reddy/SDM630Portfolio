@@ -10,7 +10,11 @@ Sprint 5. Weeks 14-15 (May 2 - 15)
 
 # Sprint 1
 
-Discussed on the UI libraries that are a viable option for the project.
+Discussed on the UI libraries that are a viable option for the project and assigned into the issue - [Update UI dependencies (#24)](https://github.com/ChicoState/PantryNode/issues/24)
+
+Research:
+1. https://www.wearedevelopers.com/magazine/best-free-react-ui-libraries
+2. https://www.turing.com/blog/react-ui-frameworks-for-developers/#:~:text=Which%20UI%20is%20best%20for,Evergreen%20are%20also%20popular%20UIs
 
 # Sprint 2
 
@@ -23,11 +27,12 @@ Discussed on the developement of the project and assigned into the issue - [Crea
 
 ## Commits
 1. [Adding dummy table to describe item's data](https://github.com/ChicoState/PantryNode/pull/125/commits/582c0661d0874edcd0a4c15602a30dab17a84109)  
-Here, I have created a sales table to render the sales data
+- Created Table to render Sales Data
+- Added Dummy Sales Data as the end point was not ready yet
 
 ## Reviews
 1. [Updated README.md file with latest technology stack](https://github.com/ChicoState/PantryNode/pull/122) [(comment)](https://github.com/ChicoState/PantryNode/pull/122#pullrequestreview-1379846800)  
-Reviewed the README.md and made some suggestions to improve it further.
+- Reviewed the README.md and made some suggestions to improve it further.
 
 # Sprint 4
 
@@ -98,7 +103,11 @@ A new feature has been introduced to showcase the overall quantity of soon-to-ex
 1. [Reviewed](https://github.com/ChicoState/PantryNode/pull/250#pullrequestreview-1427567735) - [PR(#250)](https://github.com/ChicoState/PantryNode/pull/250)  
 The implementation of sorting the items on the expiry page based on quantity was successful and well-received. Consequently, the proposed changes were approved.
 
-# Mentions (Significant)
+# Highlights
 During sprint 4, I collaborated with my teammates to develop the expiry page, incorporating various functional features. As a team, we collectively contributed to the overall development of the page. I am extremely proud to have taken a leadership role in guiding the group through the creation of this page.
 
-[Commits into main branch of pantrynode](https://github.com/ChicoState/PantryNode/commits?author=Gajjela-Koushik-Reddy)
+Commits accepted into **main** branch  
+- [Commits into main branch of pantrynode](https://github.com/ChicoState/PantryNode/commits?author=Gajjela-Koushik-Reddy)  
+
+Pull Requests Accepted into **Main** branch  
+- [Expiry page (#224)](https://github.com/ChicoState/PantryNode/pull/224)
